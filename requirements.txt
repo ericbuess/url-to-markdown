@@ -1,0 +1,6 @@
+requests
+pyperclip
+python-dotenv
+selenium
+bs4
+tldextract
